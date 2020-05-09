@@ -3,12 +3,8 @@
 
 int main()
 {
-	
-
-	//making decisions using if statements 
+	//making decisions using if statements
 	//nested if statements
-	
-
 
 	if(4<10)
 	{
@@ -58,8 +54,6 @@ int main()
 	{
 		printf("You are not eligible to vote");
 	}
-
-
 
 
 	return 0;

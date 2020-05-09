@@ -11,7 +11,7 @@ int main()
 	passByValue(tuna);
 	printf("Passing by value, tuna is now %d\n", tuna);
 
-	passByAddress(&tuna)
+	passByAddress(&tuna);
 	printf("Passing by address, tuna is now %d\n", tuna);
 
 

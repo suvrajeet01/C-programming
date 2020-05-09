@@ -2,9 +2,8 @@
 
 int main()
 {
-	
+
 	//do while loop
-	
 	float grade = 0;
 	float score = 0;
 	float tests = 0;

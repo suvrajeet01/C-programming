@@ -4,12 +4,12 @@ int main()
 {
 
 	//while loops
-	
+
 
 	int x = 1;
 	while (x < 5){
 	printf("value of x is now%d \n", x);
-       	x++;	
+	x++;
 	}
 
 
@@ -23,8 +23,7 @@ int main()
 		printf("Day:%d \t Amount:$%.2f \n", day, amount);
 		amount *= 2;
 		day++;
-	
-	
+
 	}
 
 

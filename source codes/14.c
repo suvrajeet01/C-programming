@@ -2,11 +2,11 @@
 
 int main()
 {
-	
+
 	//else-if statement
 	//for more than two choices
-	
-	float grade1;	
+
+	float grade1;
 	float grade2;
 	float grade3;
 	printf("enter your three test grades: \n");
@@ -32,11 +32,6 @@ int main()
 	}else{
 		printf("Grade:F");
 	}
-
-
-
-
-
 
 	return 0;
 }

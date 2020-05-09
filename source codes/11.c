@@ -3,7 +3,6 @@
 int main()
 {
 	//typecasting=temporarily changing data type of a variable
-	
 
 	float avpr;
 	int pricepum=10;
@@ -12,10 +11,6 @@ int main()
 
 	avpr=((float)pricepum*(float)sales)/(float)daysworked;
 
-	printf("average daily profit : $%.2f",avpr);	
-	
-	
-	
-
+	printf("average daily profit : $%.2f",avpr);
 	return 0;
 }

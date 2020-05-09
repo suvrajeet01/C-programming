@@ -10,7 +10,6 @@ int main()
 	//used to skip certain parts......
 	//continue = go back to the top without executing the lines below continue
 	//does not completely breaks the loop but instead skips certains parts of it
-	
 	int num =1;
 
 	do

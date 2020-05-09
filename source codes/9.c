@@ -2,7 +2,6 @@
 
 int main()
 {
-	
 	float  age1,age2,age3,average;
 	age1=age2=7.0;
 	printf("enter your age\n");

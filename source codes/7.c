@@ -3,7 +3,6 @@
 int main()
 {
 	//taking input from user
-	
 	char name[40];
 	char car[40];
 	int price;
@@ -12,15 +11,11 @@ int main()
 	scanf("%s",name);
 
 	printf("\nEnter Car:");
-	scanf("%s",car);	
-	
+	scanf("%s",car);
+
 	printf("\nEnter price:");
 	scanf("%d",&price);
-
 	printf("%s owns a %s worth %dcr ",name,car,price);
-
-
-
 
 	return 0;
 }

@@ -15,13 +15,10 @@ int main()
 	int age;
 
 	crntyr=2020;
-	brthyr=2000;	
+	brthyr=2000;
 	age=crntyr-brthyr;
-	
-	
-	printf("I am %d years old",age);
 
+	printf("I am %d years old",age);
 
 	return 0;
 }
-

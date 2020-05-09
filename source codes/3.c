@@ -17,10 +17,8 @@ int main()
 	  %f - placeholder for numbers with decimal places also called as float
 
 	  //only string go under quotation
-	   
-	
 	*/
-	
+
 	printf("%s is the best thing ever %s","Programming","you could do in your free time");
 	printf("\nI ate %d fruits today @ %s",2,"breakfast");
 	printf("\nA general number is %f",84379.54758495793457935);
@@ -30,4 +28,3 @@ int main()
 
 	return 0;
 }
-	

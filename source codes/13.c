@@ -3,14 +3,8 @@
 
 int main()
 {
-	
 
-	//making decisions using if-else  statements 
-
-	
-
-
-
+	//making decisions using if-else  statements
 
 	int age;
 	char  gender;
