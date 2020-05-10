@@ -7,7 +7,7 @@
 int main()
 {
 	int tuna = 'F' ;
-	if ( isalpha(tuna2) )
+	if ( isalpha(tuna) )
 	{
 		
 		if ( isupper (tuna) )
@@ -27,11 +27,11 @@ int main()
 	}
 
 
-int tuna = 'f' ;
-	if ( isalpha(tuna2) )
+int tuna01 = 'f' ;
+	if ( islower(tuna01) )
 	{
 		
-		if ( isupper (tuna) )
+		if ( isupper (tuna01) )
 		{
 			printf("%c is an upper case letter\n", tuna );
 		}else{

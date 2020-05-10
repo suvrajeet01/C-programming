@@ -31,12 +31,10 @@ int main()
 		if( isdigit(tuna)  ){
 
 			printf("%c is a number", tuna);
-		
 		}else{
 				printf("%c is a OMG WTF is that!\n", tuna);
 			
 		}
-	
 	}
 
 

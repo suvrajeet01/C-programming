@@ -20,7 +20,6 @@ int main()
 	strcat(ham, "tastes");
 	strcat(ham, "good !"); //make sure to add only those many characters that the string or the variable can hold
 	printf("%s\n",ham );
-	
 
 	strcpy(ham, "Tuna is awesome");		//replaces one string with another
 	printf("%s\n",ham );
