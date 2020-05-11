@@ -30,7 +30,7 @@ int main()
 		scanf("%d", &meatBalls1[i1]);
 	}
 
-	int avg = totalBalls/5
+	int avg = totalBalls/5;
 	printf("\n You ate %d meatBalls total, thats an average of %d per day! \n" ,totalBalls, avg);
 			return 0;
 }

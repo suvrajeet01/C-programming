@@ -18,7 +18,7 @@ int main()
 
 		for (i = 0; i < 20; i++)
 	{
-		diceRoll = ( rand()%6 ) + 1
+		diceRoll = ( rand()%6 ) + 1;
 		printf("%d\n", diceRoll );		//generates a random number from 0 to 32767
 	}
 
