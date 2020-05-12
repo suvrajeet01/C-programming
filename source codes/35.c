@@ -10,7 +10,7 @@ int main()
 	int goals [5] = {26,39,25,29,31};
 	int gamesPlayed[5] = {30,30,28,30,26};
 
-	float ppg;
+	float ppg[5];
 	float bestPPG= 0.0;
 	int bestPlayer;
 		for(i=0; i<5; i++)
@@ -18,7 +18,7 @@ int main()
 			ppg[i] = (float)goals[i] / (float)gamesPlayed[i];	//typecasting
 			printf("%d \t %d \t %d \t %.2f \n", player[i], goals[i], gamesPlayed[i], ppg[i]);
 
-			if(ppg[i] > bestPPG[i])
+			if( ppg[i] > bestPPG )
 			{
 				bestPPG = ppg[i];
 				bestPlayer = player[i];
@@ -26,6 +26,7 @@ int main()
 
 		}
 
-		printf("\n The best player is %d \n", bestPlayer);
-			return 0;
+printf("\n The best player is %d \n", bestPlayer);
+return 0;
+
 }

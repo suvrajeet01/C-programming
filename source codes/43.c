@@ -24,7 +24,7 @@ int main()
 		scanf("%d",&pointsArray[i]);
 		total += pointsArray[i];
 	}
-	average = (float)total / (float)howMany;
-	printf("Average is %f\n", average);
+	avg = (float)total / (float)howMany;
+	printf("Average is %f\n", avg);
 		return 0;
 }

@@ -10,4 +10,4 @@ struct user
 	int age;
 	float weight;
 
-}
+};
