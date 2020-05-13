@@ -18,4 +18,4 @@ void print()	//void doesn't return anything
 	printf("This is a user created function\n");
 	printf("I ate %d tuna today\n", tuna);
 	return;
-} 								
+}
